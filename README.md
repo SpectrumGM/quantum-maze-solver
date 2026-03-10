@@ -33,7 +33,7 @@ Grover:         amplifies correct path   →  O(√N)
 Optimal iterations = floor(π/4 × √8) = 2
 ```
 
-The 17% gap between simulator and real hardware is **quantum decoherence** — not a bug, but physics.
+The 17% gap between simulator and real hardware is **quantum decoherence** - not a bug, but physics.
 
 ---
 
