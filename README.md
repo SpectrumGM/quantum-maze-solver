@@ -1,6 +1,6 @@
 # ⚛ Quantum Maze Solver
 
-> Grover's Algorithm implemented in Qiskit and executed on **real IBM Quantum hardware** (ibm_fez, 156 qubits).
+> Grover's Algorithm implemented in Qiskit and executed on ** IBM Quantum hardware** (ibm_fez, 156 qubits).
 
 ![Python](https://img.shields.io/badge/Python-3.13-blue) ![Qiskit](https://img.shields.io/badge/Qiskit-2.3.0-purple) ![IBM Quantum](https://img.shields.io/badge/IBM%20Quantum-ibm__fez%20156q-black)
 
