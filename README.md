@@ -13,7 +13,7 @@
 | Run | Accuracy | Hardware |
 |---|---|---|
 | Simulator, 1 iteration | 78.8% | Qiskit Aer |
-| Simulator, 2 iterations | ~97% (theoretical) | Qiskit Aer |
+| Simulator, 2 iterations | 97% (theoretical) | Qiskit Aer |
 | **Real hardware, 1 iteration** | **62.0%** | **ibm_fez** |
 | **Real hardware, 2 iterations** | **80.6%** | **ibm_fez** |
 
